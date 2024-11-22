@@ -1,0 +1,239 @@
+2024-11-15 02:49:56,437 - WARNING -  * Debugger is active!
+2024-11-15 02:49:56,440 - INFO -  * Debugger PIN: 137-023-734
+2024-11-15 02:51:08,855 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-15 02:51:08,855 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-15 02:51:08,856 - INFO -  * Restarting with stat
+2024-11-15 02:51:09,112 - WARNING -  * Debugger is active!
+2024-11-15 02:51:09,114 - INFO -  * Debugger PIN: 137-023-734
+2024-11-15 02:52:00,567 - INFO -  * Detected change in 'd:\\gymmanage\\app.py', reloading
+2024-11-15 02:52:00,636 - INFO -  * Restarting with stat
+2024-11-15 02:52:00,937 - WARNING -  * Debugger is active!
+2024-11-15 02:52:00,939 - INFO -  * Debugger PIN: 137-023-734
+2024-11-15 02:55:00,348 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-11-15 02:55:00,348 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-15 02:55:00,349 - INFO -  * Restarting with stat
+2024-11-15 02:55:00,607 - WARNING -  * Debugger is active!
+2024-11-15 02:55:00,609 - INFO -  * Debugger PIN: 137-023-734
+2024-11-15 02:55:13,600 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-15 02:55:13,600 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-15 02:55:13,601 - INFO -  * Restarting with stat
+2024-11-15 02:55:13,863 - WARNING -  * Debugger is active!
+2024-11-15 02:55:13,866 - INFO -  * Debugger PIN: 137-023-734
+2024-11-15 02:55:18,964 - INFO - 127.0.0.1 - - [15/Nov/2024 02:55:18] "GET / HTTP/1.1" 200 -
+2024-11-15 02:55:19,022 - INFO - 127.0.0.1 - - [15/Nov/2024 02:55:19] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-15 02:55:19,137 - INFO - 127.0.0.1 - - [15/Nov/2024 02:55:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-20 21:41:17,174 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-20 21:41:17,174 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-20 21:41:17,175 - INFO -  * Restarting with stat
+2024-11-20 21:41:17,484 - WARNING -  * Debugger is active!
+2024-11-20 21:41:17,487 - INFO -  * Debugger PIN: 137-023-734
+2024-11-20 21:41:19,039 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:19] "GET / HTTP/1.1" 200 -
+2024-11-20 21:41:19,109 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:19] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-20 21:41:19,209 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-20 21:41:20,998 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:20] "GET / HTTP/1.1" 200 -
+2024-11-20 21:41:21,571 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:21] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-20 21:41:21,711 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-20 21:41:26,402 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:26] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-11-20 21:41:26,501 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:26] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-20 21:41:26,501 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:26] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-20 21:41:26,608 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:26] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=L6eJc6URy8oOOorHrHPY HTTP/1.1" 200 -
+2024-11-20 21:41:26,632 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:26] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-20 21:41:30,090 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:30] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-11-20 21:41:30,102 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-20 21:41:30,106 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-20 21:41:30,230 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=L6eJc6URy8oOOorHrHPY HTTP/1.1[0m" 304 -
+2024-11-20 21:41:30,277 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-20 21:41:44,474 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:44] "GET / HTTP/1.1" 200 -
+2024-11-20 21:41:44,496 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:44] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-20 21:41:52,522 - INFO - Successful login for database user: test with role: active
+2024-11-20 21:41:52,522 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:52] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-20 21:41:52,526 - INFO - Initiated OTP generation for user: test
+2024-11-20 21:41:52,591 - INFO - Generated 2FA QR code for user: test
+2024-11-20 21:41:52,593 - INFO - 127.0.0.1 - - [20/Nov/2024 21:41:52] "GET /generate_otp HTTP/1.1" 200 -
+2024-11-20 21:42:01,562 - INFO - 127.0.0.1 - - [20/Nov/2024 21:42:01] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-11-20 21:42:01,592 - INFO - 127.0.0.1 - - [20/Nov/2024 21:42:01] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-20 21:42:01,595 - INFO - 127.0.0.1 - - [20/Nov/2024 21:42:01] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-20 21:42:01,709 - INFO - 127.0.0.1 - - [20/Nov/2024 21:42:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=L6eJc6URy8oOOorHrHPY HTTP/1.1[0m" 304 -
+2024-11-20 21:42:01,757 - INFO - 127.0.0.1 - - [20/Nov/2024 21:42:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-20 21:42:24,789 - INFO - 127.0.0.1 - - [20/Nov/2024 21:42:24] "GET / HTTP/1.1" 200 -
+2024-11-20 21:42:24,807 - INFO - 127.0.0.1 - - [20/Nov/2024 21:42:24] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-20 21:42:28,596 - INFO - Successful login for database user: test with role: active
+2024-11-20 21:42:28,596 - INFO - 127.0.0.1 - - [20/Nov/2024 21:42:28] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-20 21:42:28,601 - INFO - Initiated OTP generation for user: test
+2024-11-20 21:42:28,612 - INFO - Generated 2FA QR code for user: test
+2024-11-20 21:42:28,613 - INFO - 127.0.0.1 - - [20/Nov/2024 21:42:28] "GET /generate_otp HTTP/1.1" 200 -
+2024-11-20 21:43:58,166 - INFO - 127.0.0.1 - - [20/Nov/2024 21:43:58] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-21 04:08:34,644 - INFO - Successful login for database user: test with role: active
+2024-11-21 04:08:34,647 - INFO - 127.0.0.1 - - [21/Nov/2024 04:08:34] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-21 04:08:34,651 - INFO - Initiated OTP generation for user: test
+2024-11-21 04:08:34,660 - INFO - Generated 2FA QR code for user: test
+2024-11-21 04:08:34,662 - INFO - 127.0.0.1 - - [21/Nov/2024 04:08:34] "GET /generate_otp HTTP/1.1" 200 -
+2024-11-22 00:32:48,074 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 00:32:48,081 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-22 00:32:48,082 - INFO -  * Restarting with stat
+2024-11-22 00:32:48,341 - WARNING -  * Debugger is active!
+2024-11-22 00:32:48,345 - INFO -  * Debugger PIN: 137-023-734
+2024-11-22 00:33:21,837 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 00:33:21,837 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-22 00:33:21,838 - INFO -  * Restarting with stat
+2024-11-22 00:33:22,104 - WARNING -  * Debugger is active!
+2024-11-22 00:33:22,107 - INFO -  * Debugger PIN: 137-023-734
+2024-11-22 00:34:23,382 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 00:34:23,383 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-22 00:34:43,113 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 00:34:43,113 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-22 00:34:43,114 - INFO -  * Restarting with stat
+2024-11-22 00:34:43,378 - WARNING -  * Debugger is active!
+2024-11-22 00:34:43,380 - INFO -  * Debugger PIN: 137-023-734
+2024-11-22 00:37:15,227 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 00:37:15,227 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-22 00:37:15,228 - INFO -  * Restarting with stat
+2024-11-22 00:37:15,492 - WARNING -  * Debugger is active!
+2024-11-22 00:37:15,495 - INFO -  * Debugger PIN: 137-023-734
+2024-11-22 00:37:16,469 - INFO - 127.0.0.1 - - [22/Nov/2024 00:37:16] "GET / HTTP/1.1" 200 -
+2024-11-22 00:37:16,509 - INFO - 127.0.0.1 - - [22/Nov/2024 00:37:16] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-22 00:37:16,588 - INFO - 127.0.0.1 - - [22/Nov/2024 00:37:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-22 00:37:30,564 - WARNING - Failed login attempt for non-existent database user: fake_user
+2024-11-22 00:37:30,565 - INFO - 127.0.0.1 - - [22/Nov/2024 00:37:30] "POST / HTTP/1.1" 200 -
+2024-11-22 00:37:41,933 - INFO - 127.0.0.1 - - [22/Nov/2024 00:37:41] "GET / HTTP/1.1" 200 -
+2024-11-22 00:37:41,980 - INFO - 127.0.0.1 - - [22/Nov/2024 00:37:41] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-22 00:37:46,282 - INFO - Successful login for database user: test with role: active
+2024-11-22 00:37:46,283 - INFO - 127.0.0.1 - - [22/Nov/2024 00:37:46] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-22 00:37:46,290 - INFO - Initiated OTP generation for user: test
+2024-11-22 00:37:46,407 - INFO - Generated 2FA QR code for user: test
+2024-11-22 00:37:46,415 - INFO - 127.0.0.1 - - [22/Nov/2024 00:37:46] "GET /generate_otp HTTP/1.1" 200 -
+2024-11-22 00:55:03,132 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 00:55:03,132 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-22 00:55:03,133 - INFO -  * Restarting with stat
+2024-11-22 00:55:03,393 - WARNING -  * Debugger is active!
+2024-11-22 00:55:03,396 - INFO -  * Debugger PIN: 137-023-734
+2024-11-22 00:55:05,536 - INFO - 127.0.0.1 - - [22/Nov/2024 00:55:05] "GET / HTTP/1.1" 200 -
+2024-11-22 00:55:05,592 - INFO - 127.0.0.1 - - [22/Nov/2024 00:55:05] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-22 00:55:05,685 - INFO - 127.0.0.1 - - [22/Nov/2024 00:55:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-22 01:38:44,743 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 01:38:44,753 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-22 01:38:44,755 - INFO -  * Restarting with stat
+2024-11-22 01:38:45,012 - WARNING -  * Debugger is active!
+2024-11-22 01:38:45,015 - INFO -  * Debugger PIN: 137-023-734
+2024-11-22 01:38:46,253 - INFO - 127.0.0.1 - - [22/Nov/2024 01:38:46] "GET / HTTP/1.1" 200 -
+2024-11-22 01:38:46,318 - INFO - 127.0.0.1 - - [22/Nov/2024 01:38:46] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-22 01:38:46,422 - INFO - 127.0.0.1 - - [22/Nov/2024 01:38:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-22 01:38:48,793 - INFO - Successful login for database user: test with role: active
+2024-11-22 01:38:48,794 - INFO - 127.0.0.1 - - [22/Nov/2024 01:38:48] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-22 01:38:48,802 - INFO - Initiated OTP generation for user: test
+2024-11-22 01:38:48,838 - INFO - Generated 2FA QR code for user: test
+2024-11-22 01:38:48,840 - INFO - 127.0.0.1 - - [22/Nov/2024 01:38:48] "GET /generate_otp HTTP/1.1" 200 -
+2024-11-22 01:39:02,970 - INFO - Successful 2FA verification for user: test
+2024-11-22 01:39:02,971 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:02] "[32mPOST /verify_otp HTTP/1.1[0m" 302 -
+2024-11-22 01:39:02,980 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:02] "GET /dashboard HTTP/1.1" 200 -
+2024-11-22 01:39:05,782 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:05] "GET /register_member HTTP/1.1" 200 -
+2024-11-22 01:39:07,677 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:07] "[32mGET /view_members HTTP/1.1[0m" 302 -
+2024-11-22 01:39:07,683 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:07] "GET / HTTP/1.1" 200 -
+2024-11-22 01:39:07,730 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:07] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-22 01:39:13,389 - INFO - Successful login for in-memory user: pakkarim with role: staff
+2024-11-22 01:39:13,389 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:13] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-22 01:39:13,396 - INFO - Initiated OTP generation for user: pakkarim
+2024-11-22 01:39:13,405 - INFO - Generated 2FA QR code for user: pakkarim
+2024-11-22 01:39:13,405 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:13] "GET /generate_otp HTTP/1.1" 200 -
+2024-11-22 01:39:18,309 - INFO - Successful 2FA verification for user: pakkarim
+2024-11-22 01:39:18,310 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:18] "[32mPOST /verify_otp HTTP/1.1[0m" 302 -
+2024-11-22 01:39:18,316 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:18] "GET /dashboard HTTP/1.1" 200 -
+2024-11-22 01:39:19,658 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:19] "GET /view_members HTTP/1.1" 200 -
+2024-11-22 01:39:21,868 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:21] "GET /member/1/classes HTTP/1.1" 200 -
+2024-11-22 01:39:29,003 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:29] "GET /register_member HTTP/1.1" 200 -
+2024-11-22 01:39:42,102 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:42] "GET /view_members HTTP/1.1" 200 -
+2024-11-22 01:39:43,812 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:43] "GET /member/1/classes HTTP/1.1" 200 -
+2024-11-22 01:39:45,572 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:45] "GET /register_class/1 HTTP/1.1" 200 -
+2024-11-22 01:39:49,907 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:49] "GET /register_member HTTP/1.1" 200 -
+2024-11-22 01:39:55,318 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:55] "GET /view_members HTTP/1.1" 200 -
+2024-11-22 01:39:57,727 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:57] "GET /add_member HTTP/1.1" 200 -
+2024-11-22 01:39:57,769 - INFO - 127.0.0.1 - - [22/Nov/2024 01:39:57] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-22 01:40:02,435 - INFO - 127.0.0.1 - - [22/Nov/2024 01:40:02] "GET /dashboard HTTP/1.1" 200 -
+2024-11-22 01:40:03,560 - INFO - 127.0.0.1 - - [22/Nov/2024 01:40:03] "GET /register_member HTTP/1.1" 200 -
+2024-11-22 01:40:05,231 - INFO - 127.0.0.1 - - [22/Nov/2024 01:40:05] "GET /view_members HTTP/1.1" 200 -
+2024-11-22 01:40:08,062 - INFO - 127.0.0.1 - - [22/Nov/2024 01:40:08] "GET /dashboard HTTP/1.1" 200 -
+2024-11-22 01:40:09,157 - INFO - 127.0.0.1 - - [22/Nov/2024 01:40:09] "GET /register_member HTTP/1.1" 200 -
+2024-11-22 01:40:11,135 - INFO - 127.0.0.1 - - [22/Nov/2024 01:40:11] "GET /view_members HTTP/1.1" 200 -
+2024-11-22 01:40:11,848 - INFO - 127.0.0.1 - - [22/Nov/2024 01:40:11] "GET /dashboard HTTP/1.1" 200 -
+2024-11-22 01:40:14,183 - INFO - 127.0.0.1 - - [22/Nov/2024 01:40:14] "GET /register_member HTTP/1.1" 200 -
+2024-11-22 01:40:24,357 - INFO - 127.0.0.1 - - [22/Nov/2024 01:40:24] "GET /view_members HTTP/1.1" 200 -
+2024-11-22 01:40:27,702 - INFO - 127.0.0.1 - - [22/Nov/2024 01:40:27] "GET /add_member HTTP/1.1" 200 -
+2024-11-22 01:40:27,740 - INFO - 127.0.0.1 - - [22/Nov/2024 01:40:27] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-22 01:40:48,545 - INFO - 127.0.0.1 - - [22/Nov/2024 01:40:48] "GET /dashboard HTTP/1.1" 200 -
+2024-11-22 01:40:49,418 - INFO - 127.0.0.1 - - [22/Nov/2024 01:40:49] "GET /register_member HTTP/1.1" 200 -
+2024-11-22 01:41:06,964 - INFO - 127.0.0.1 - - [22/Nov/2024 01:41:06] "GET /view_members HTTP/1.1" 200 -
+2024-11-22 01:41:08,974 - INFO - 127.0.0.1 - - [22/Nov/2024 01:41:08] "GET /add_member HTTP/1.1" 200 -
+2024-11-22 01:41:09,014 - INFO - 127.0.0.1 - - [22/Nov/2024 01:41:09] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-22 01:41:16,831 - INFO - 127.0.0.1 - - [22/Nov/2024 01:41:16] "GET /dashboard HTTP/1.1" 200 -
+2024-11-22 01:41:17,570 - INFO - 127.0.0.1 - - [22/Nov/2024 01:41:17] "GET /register_member HTTP/1.1" 200 -
+2024-11-22 01:41:26,896 - INFO - 127.0.0.1 - - [22/Nov/2024 01:41:26] "GET /view_members HTTP/1.1" 200 -
+2024-11-22 01:41:32,585 - INFO - 127.0.0.1 - - [22/Nov/2024 01:41:32] "GET /dashboard HTTP/1.1" 200 -
+2024-11-22 01:41:34,041 - INFO - 127.0.0.1 - - [22/Nov/2024 01:41:34] "GET /view_classes HTTP/1.1" 200 -
+2024-11-22 01:41:34,079 - INFO - 127.0.0.1 - - [22/Nov/2024 01:41:34] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-22 08:20:00,054 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-22 08:20:00,067 - INFO - [33mPress CTRL+C to quit[0m
+2024-11-22 08:20:00,068 - INFO -  * Restarting with stat
+2024-11-22 08:20:00,337 - WARNING -  * Debugger is active!
+2024-11-22 08:20:00,341 - INFO -  * Debugger PIN: 137-023-734
+2024-11-22 08:20:03,866 - INFO - 127.0.0.1 - - [22/Nov/2024 08:20:03] "GET / HTTP/1.1" 200 -
+2024-11-22 08:20:03,907 - INFO - 127.0.0.1 - - [22/Nov/2024 08:20:03] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-22 08:34:04,179 - INFO - Successful login for database user: test with role: active
+2024-11-22 08:34:04,179 - INFO - 127.0.0.1 - - [22/Nov/2024 08:34:04] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-22 08:34:04,183 - INFO - Initiated OTP generation for user: test
+2024-11-22 08:34:04,246 - INFO - Generated 2FA QR code for user: test
+2024-11-22 08:34:04,248 - INFO - 127.0.0.1 - - [22/Nov/2024 08:34:04] "GET /generate_otp HTTP/1.1" 200 -
+2024-11-22 08:34:46,800 - INFO - Successful 2FA verification for user: test
+2024-11-22 08:34:46,800 - INFO - 127.0.0.1 - - [22/Nov/2024 08:34:46] "[32mPOST /verify_otp HTTP/1.1[0m" 302 -
+2024-11-22 08:34:46,807 - INFO - 127.0.0.1 - - [22/Nov/2024 08:34:46] "GET /dashboard HTTP/1.1" 200 -
+2024-11-22 08:35:06,437 - INFO - 127.0.0.1 - - [22/Nov/2024 08:35:06] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-22 08:35:06,442 - INFO - 127.0.0.1 - - [22/Nov/2024 08:35:06] "GET / HTTP/1.1" 200 -
+2024-11-22 08:35:06,473 - INFO - 127.0.0.1 - - [22/Nov/2024 08:35:06] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-22 08:35:20,998 - WARNING - Failed login attempt for non-existent database user: fake_user
+2024-11-22 08:35:20,998 - INFO - 127.0.0.1 - - [22/Nov/2024 08:35:20] "POST / HTTP/1.1" 200 -
+2024-11-22 08:35:42,176 - INFO - 127.0.0.1 - - [22/Nov/2024 08:35:42] "GET / HTTP/1.1" 200 -
+2024-11-22 08:35:42,192 - INFO - 127.0.0.1 - - [22/Nov/2024 08:35:42] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-22 08:35:52,908 - WARNING - Failed login attempt for database user: test (incorrect password)
+2024-11-22 08:35:52,908 - INFO - 127.0.0.1 - - [22/Nov/2024 08:35:52] "POST / HTTP/1.1" 200 -
+2024-11-22 08:38:09,751 - INFO - 127.0.0.1 - - [22/Nov/2024 08:38:09] "GET / HTTP/1.1" 200 -
+2024-11-22 08:38:09,770 - INFO - 127.0.0.1 - - [22/Nov/2024 08:38:09] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-22 15:46:07,792 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:07] "GET / HTTP/1.1" 200 -
+2024-11-22 15:46:07,844 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:07] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-22 15:46:07,945 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-22 15:46:11,942 - INFO - Successful login for in-memory user: pakkarim with role: staff
+2024-11-22 15:46:11,942 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:11] "[32mPOST / HTTP/1.1[0m" 302 -
+2024-11-22 15:46:11,949 - INFO - Initiated OTP generation for user: pakkarim
+2024-11-22 15:46:11,982 - INFO - Generated 2FA QR code for user: pakkarim
+2024-11-22 15:46:11,982 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:11] "GET /generate_otp HTTP/1.1" 200 -
+2024-11-22 15:46:23,998 - INFO - Successful 2FA verification for user: pakkarim
+2024-11-22 15:46:23,999 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:23] "[32mPOST /verify_otp HTTP/1.1[0m" 302 -
+2024-11-22 15:46:24,003 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:24] "GET /dashboard HTTP/1.1" 200 -
+2024-11-22 15:46:25,503 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:25] "GET /register_member HTTP/1.1" 200 -
+2024-11-22 15:46:35,373 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:35] "[32mPOST /register_member HTTP/1.1[0m" 302 -
+2024-11-22 15:46:35,383 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:35] "GET /view_members HTTP/1.1" 200 -
+2024-11-22 15:46:39,258 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:39] "[32mPOST /delete_member/1 HTTP/1.1[0m" 302 -
+2024-11-22 15:46:39,262 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:39] "GET /view_members HTTP/1.1" 200 -
+2024-11-22 15:46:43,051 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:43] "[32mPOST /delete_member/3 HTTP/1.1[0m" 302 -
+2024-11-22 15:46:43,056 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:43] "GET /view_members HTTP/1.1" 200 -
+2024-11-22 15:46:45,015 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:45] "GET /add_member HTTP/1.1" 200 -
+2024-11-22 15:46:45,033 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:45] "[33mGET /static/styles.css HTTP/1.1[0m" 404 -
+2024-11-22 15:46:46,895 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:46] "GET /dashboard HTTP/1.1" 200 -
+2024-11-22 15:46:47,754 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:47] "GET /register_member HTTP/1.1" 200 -
+2024-11-22 15:46:50,867 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:50] "GET /register_member HTTP/1.1" 200 -
+2024-11-22 15:46:58,865 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:58] "[32mPOST /register_member HTTP/1.1[0m" 302 -
+2024-11-22 15:46:58,869 - INFO - 127.0.0.1 - - [22/Nov/2024 15:46:58] "GET /view_members HTTP/1.1" 200 -
+2024-11-22 15:47:00,001 - INFO - 127.0.0.1 - - [22/Nov/2024 15:47:00] "GET /dashboard HTTP/1.1" 200 -
+2024-11-22 15:47:00,628 - INFO - 127.0.0.1 - - [22/Nov/2024 15:47:00] "GET /register_member HTTP/1.1" 200 -
+2024-11-22 15:47:04,801 - INFO - 127.0.0.1 - - [22/Nov/2024 15:47:04] "[32mPOST /register_member HTTP/1.1[0m" 302 -
+2024-11-22 15:47:04,806 - INFO - 127.0.0.1 - - [22/Nov/2024 15:47:04] "GET /view_members HTTP/1.1" 200 -
